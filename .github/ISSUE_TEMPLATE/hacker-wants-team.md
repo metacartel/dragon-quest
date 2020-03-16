@@ -17,7 +17,7 @@ _Talk a little about yourself:_
 
 _Tell us what your skills are:_
 
-- [ ] Engineering 📊 (FE?, Smartc-ontracts?, Data?)
+- [ ] Engineering (FE?, Smartc-ontracts?, Data?)
 - [ ] Design (UX Design? UI Design?, Visual Design?)
 - [ ] Operations (Project management? Biz Dev? Marketing?)
 - [ ] Community builder (DAO Summoner, DAO Ops, community manager)

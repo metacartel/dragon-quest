@@ -1,5 +1,7 @@
 ![](https://i.imgur.com/sFnh2Wy.png)
 
+---
+
 ## 🗓 Schedule:
 - **March 23rd:** Builder speed dating / looking for party session #1
 - **March 30th:** Builder speed dating / looking for party session #2
@@ -8,6 +10,8 @@
 - **April 13th (Sunday):** Weekly builder check-in & chill.
 - **April 20th (Sunday):** Weekly builder check-in & chill.
 - **April 30th:** Building ends.
+
+#### All details to attend will be send to the emails of everyone who applys to be a hacker: https://blockchains.typeform.com/to/lXqjm9
 
 ---
 
@@ -18,8 +22,6 @@
 -   Want to create a new team? Create an issue with `[NEW]`: [Find-A-Team/new?template=idea-wants-team.md](https://github.com/metacartel/dragon-quest/issues/new?template=idea-wants-team.md)
 -   Browse existing inserations: [Find-A-Team](https://github.com/metacartel/dragon-quest/issues)
 -   Connect with hackers on discord: https://discord.gg/TstFZSb
-
-#### Details to attend will be send to the emails of everyone who applys to be a hacker: https://blockchains.typeform.com/to/lXqjm9
 
 ---
 

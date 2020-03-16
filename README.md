@@ -13,9 +13,9 @@
 
 ## 🧙‍♂️ Team Formation Information
 
--   Looking for a team? Create an issue with `[LFT]`: [Find-A-Team/issues/new?template=hacker-wants-team.md](https://github.com/metacartel/dragon-quest/issues/new?template=hacker-wants-team.md)
--   Locking for hackers? Create an issue with `[LFH]`: [Find-A-Team/issues/new?template=team-wants-hacker.md](https://github.com/metacartel/dragon-quest/issues/new?template=team-wants-hacker.md)
--   Want to create a new team? Create an issue with `[NEW]`: [Find-A-Team/issues/new?template=idea-wants-team.md](https://github.com/metacartel/dragon-quest/issues/new?template=idea-wants-team.md)
+-   Looking for a team? Signal by creating an issue with `[LFT]`: [Find-A-Team/new?template=hacker-wants-team.md](https://github.com/metacartel/dragon-quest/issues/new?template=hacker-wants-team.md)
+-   Locking for hackers? Create an issue with `[LFH]`: [Find-A-Team/new?template=team-wants-hacker.md](https://github.com/metacartel/dragon-quest/issues/new?template=team-wants-hacker.md)
+-   Want to create a new team? Create an issue with `[NEW]`: [Find-A-Team/new?template=idea-wants-team.md](https://github.com/metacartel/dragon-quest/issues/new?template=idea-wants-team.md)
 -   Browse existing inserations: [Find-A-Team](https://github.com/metacartel/dragon-quest/issues)
 -   Connect with hackers on discord: https://discord.gg/TstFZSb
 
@@ -45,3 +45,5 @@
 ---
 
 [Project submission Link](https://github.com/metacartel/submissions/issues/1)
+
+// PS. thnx ETHBerlin for this looking for team template

@@ -33,7 +33,7 @@
     - **Prize (1k USD):** "Boots of Nimbleness, +3 dexterity" (1k USD)
     - **Prize (1k USD):** "Amulet of Windfall, immune to market recessions" 
 
-- [Link to bounties]
+- [Bounties: SOON TO BE ANNOUNCED]
 
 ---
 

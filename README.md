@@ -11,7 +11,7 @@
 
 ---
 
-## 🧙‍♂️ Team Formation Information
+## 🧙‍♂️ Team Formation / Looking for party
 
 -   Looking for a team? Signal by creating an issue with `[LFT]`: [Find-A-Team/new?template=hacker-wants-team.md](https://github.com/metacartel/dragon-quest/issues/new?template=hacker-wants-team.md)
 -   Locking for hackers? Create an issue with `[LFH]`: [Find-A-Team/new?template=team-wants-hacker.md](https://github.com/metacartel/dragon-quest/issues/new?template=team-wants-hacker.md)

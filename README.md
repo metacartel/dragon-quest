@@ -37,12 +37,30 @@
 
 ---
 
-## Stuff to build ideas list
+### Hackathon Theme Ideas:
+- Collectibles
+    - How to find new ways to gift NFTs?
+    - How to use NFTs to create new interactions?
+- DAOs
+    - How can we use use self curated groups to manage various assets and decisions?
+- DeFi
+    - How do we make DeFi safe?
+- Virtual Events
+    - How do we more efficiently run virtual events?
+- Social
+    - How do we educate normies about social tokens?
+    - How can social tokens be used in new interesting contexts?
 
-// Add ideas here via your own PR
+### Hackathon Problems
 
-- xyz 
+- How do we use crypto for the benefit of COVID-19?
 
+### Random build ideas
+
+- A dapp that allows anyone to curate a NFT art gallery from NFTs they own
+- Gift NFTs via telegram chats
+- DAO that aggregates social tokens
+- Events manager with crypto NFT ticketing
 
 ---
 

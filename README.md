@@ -53,7 +53,7 @@
 
 ### Hackathon Problems
 
-- How do we use crypto for the benefit of COVID-19?
+- How do we [use crypto to support those affected by COVID-19](https://discord.gg/UKwrBQV)?
 
 ### Random build ideas
 

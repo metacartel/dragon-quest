@@ -35,7 +35,11 @@
     - **Prize (736.84 USD):** "Boots of Nimbleness, +3 dexterity" 
     - **Prize (368.42 USD):** "Amulet of Windfall, immune to market recessions" 
 
-- [Bounties: SOON TO BE ANNOUNCED]
+## Bounties: 
+
+- **3Box Bounty** :tada: https://explorer.bounties.network/bounty/3920
+
+- **rDAI Bounty** :fire: https://explorer.bounties.network/bounty/3921
 
 ---
 

@@ -56,6 +56,7 @@
 - Social
     - How do we educate normies about social tokens?
     - How can social tokens be used in new interesting contexts?
+- [Some Ideas from 3Box](https://medium.com/3box/what-you-can-build-with-3box-216bcef0a71c)💡
 
 ### Hackathon Problems
 

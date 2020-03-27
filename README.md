@@ -58,16 +58,15 @@
     - How can social tokens be used in new interesting contexts?
 - [Some Ideas from 3Box](https://medium.com/3box/what-you-can-build-with-3box-216bcef0a71c)💡
 
-### Hackathon Problems
-
-- How do we use crypto to unite around solving COVID-19?
-
 ### Random build ideas
 
 - A dapp that allows anyone to curate an NFT art gallery from NFTs they own
 - Gift NFTs via telegram chats
 - DAO that aggregates social tokens
 - Events manager with crypto NFT ticketing
+
+#### Hackathon problems to solve?
+- How do we [use crypto to support those affected by COVID-19](https://discord.gg/UKwrBQV)?
 
 ---
 

@@ -52,7 +52,7 @@
     - Build a [Multi-Chain Application with Pocket](https://explorer.bounties.network/bounty/3933) Bounty
 - **Sablier** 📹 [DApp Tutorial](https://explorer.bounties.network/bounty/3927) Bounty
 - **Kickback** 🦵🏼[Proof of Achievment](https://explorer.bounties.network/bounty/3935) Bounty
-- **1up World** [Game Creation](https://explorer.bounties.network/bounty/3936) Bounty 
+- **1up World** 🍄 [Game Creation](https://explorer.bounties.network/bounty/3936) Bounty 
 
 ---
 

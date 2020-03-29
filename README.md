@@ -51,7 +51,7 @@
     - Best Pocket [SDK Integration](https://explorer.bounties.network/bounty/3932) Bounty
     - Build a [Multi-Chain Application with Pocket](https://explorer.bounties.network/bounty/3933) Bounty
 - **Sablier** 📹 [DApp Tutorial](https://explorer.bounties.network/bounty/3927) Bounty
-- **
+- **Kickback** 🦵🏼[Proof of Achievment](https://explorer.bounties.network/bounty/3935) 
 
 ---
 

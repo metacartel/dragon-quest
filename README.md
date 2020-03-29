@@ -37,9 +37,20 @@
 
 ## Bounties: 
 
-- **3Box Bounty** :tada: https://explorer.bounties.network/bounty/3920
+- **3Box** :tada: [Best Integration](https://explorer.bounties.network/bounty/3920) Bounty
+- **rDAI** :fire: [Best Integration/Tool](https://explorer.bounties.network/bounty/3921) Bounty
+- **Pepo** 🏆 [UX Awards](https://explorer.bounties.network/bounty/3922) Bounty
 
-- **rDAI Bounty** :fire: https://explorer.bounties.network/bounty/3921
+- **Aragon Bounties** 🦅
+    - Easy Fiat :bridge_at_night: [Crypto Payments Bridge:](https://explorer.bounties.network/bounty/3925) Bounty
+    - HelpDAO ⛑ [Deployment Kit:](https://explorer.bounties.network/bounty/3926) Bounty
+    - Contributor Onboarding and [Engagement Workflow:](https://explorer.bounties.network/bounty/3928) Bounty
+    - EstoniaDAO 🇪🇪 [Ethereum Wallet:](https://explorer.bounties.network/bounty/3930) Bounty
+- **Pocket Bounties** 👖
+    - Best Pocket [SDK Integration](https://explorer.bounties.network/bounty/3932) Bounty
+    - Build a [Multi-Chain Application with Pocket](https://explorer.bounties.network/bounty/3933) Bounty
+- **Sablier** 📹 [DApp Tutorial](https://explorer.bounties.network/bounty/3927) Bounty
+- **
 
 ---
 

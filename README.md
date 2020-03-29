@@ -3,7 +3,9 @@
 ---
 
 ## 🗓 Schedule:
-- **March 30th:** Builder speed dating / looking for a party session #2
+- **March 23rd:** ~~10am Builder speed dating / looking for a party session #1 ~~
+[Notes](https://hackmd.io/uE7yf-gISFC98lhDL6Uv-A)
+- **March 29th:** 10am Builder speed dating / looking for a party session #2 [Notes](https://hackmd.io/9Rp10RipTo-mGscYoS11Tw)
 - **April 1st:** Let the building begin! 
 - **April 6th (Sunday):** Weekly builder check-in & chill.
 - **April 13th (Sunday):** Weekly builder check-in & chill.

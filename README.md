@@ -3,7 +3,6 @@
 ---
 
 ## 🗓 Schedule:
-- **March 23rd:** Builder speed dating / looking for a party session #1
 - **March 30th:** Builder speed dating / looking for a party session #2
 - **April 1st:** Let the building begin! 
 - **April 6th (Sunday):** Weekly builder check-in & chill.

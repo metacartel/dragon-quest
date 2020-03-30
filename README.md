@@ -3,9 +3,9 @@
 ---
 
 ## 🗓 Schedule:
-- **March 23rd:** ~~10am Builder speed dating / looking for a party session #1 ~~
+- **March 23rd:** ~10am Builder speed dating / looking for a party session #1~
 [Notes](https://hackmd.io/uE7yf-gISFC98lhDL6Uv-A)
-- **March 29th:** 10am Builder speed dating / looking for a party session #2 [Notes](https://hackmd.io/9Rp10RipTo-mGscYoS11Tw)
+- **March 29th:** ~10am Builder speed dating / looking for a party session #2~ [Notes](https://hackmd.io/9Rp10RipTo-mGscYoS11Tw)
 - **April 1st:** Let the building begin! 
 - **April 6th (Sunday):** Weekly builder check-in & chill.
 - **April 13th (Sunday):** Weekly builder check-in & chill.
@@ -41,7 +41,6 @@
 - **3Box** :tada: [Best Integration](https://explorer.bounties.network/bounty/3920) Bounty
 - **rDAI** :fire: [Best Integration/Tool](https://explorer.bounties.network/bounty/3921) Bounty
 - **Pepo** 🏆 [UX Awards](https://explorer.bounties.network/bounty/3922) Bounty
-
 - **Aragon Bounties** 🦅
     - Easy Fiat :bridge_at_night: [Crypto Payments Bridge:](https://explorer.bounties.network/bounty/3925) Bounty
     - HelpDAO ⛑ [Deployment Kit:](https://explorer.bounties.network/bounty/3926) Bounty
@@ -53,6 +52,8 @@
 - **Sablier** 📹 [DApp Tutorial](https://explorer.bounties.network/bounty/3927) Bounty
 - **Kickback** 🦵🏼[Proof of Achievment](https://explorer.bounties.network/bounty/3935) Bounty
 - **1up World** 🍄 [Game Creation](https://explorer.bounties.network/bounty/3936) Bounty 
+- **Ocean Protocol** 🌊 [Create-react-app](https://explorer.bounties.network/bounty/3941) Bounty
+
 
 ---
 

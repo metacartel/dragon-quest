@@ -38,17 +38,22 @@
 
 ## Bounties: 
 
+- **Gnosis Bounties** 🦉
+    - [Building a Game](https://explorer.bounties.network/bounty/3940) Bounty
+    - [Building a Dapp](https://explorer.bounties.network/bounty/3937) Bounty
+    - [Building a Recovery Dapp](https://explorer.bounties.network/bounty/3938) Bounty
+    - [Writing a MetaMask Snap](https://explorer.bounties.network/bounty/3939) Bounty
+- **Aragon Bounties** 🦅
+    - [Easy Fiat :bridge_at_night: Crypto Payments Bridge](https://explorer.bounties.network/bounty/3925) Bounty
+    - [HelpDAO ⛑ Deployment Kit](https://explorer.bounties.network/bounty/3926) Bounty
+    - [Contributor Onboarding and Engagement Workflow](https://explorer.bounties.network/bounty/3928) Bounty
+    - [EstoniaDAO 🇪🇪 Ethereum Wallet](https://explorer.bounties.network/bounty/3930) Bounty
+- **Pocket Bounties** 👖
+    - [Best Pocket SDK Integration](https://explorer.bounties.network/bounty/3932) Bounty
+    - [Build a Multi-Chain Application with Pocket](https://explorer.bounties.network/bounty/3933) Bounty
 - **3Box** :tada: [Best Integration](https://explorer.bounties.network/bounty/3920) Bounty
 - **rDAI** :fire: [Best Integration/Tool](https://explorer.bounties.network/bounty/3921) Bounty
 - **Pepo** 🏆 [UX Awards](https://explorer.bounties.network/bounty/3922) Bounty
-- **Aragon Bounties** 🦅
-    - Easy Fiat :bridge_at_night: [Crypto Payments Bridge:](https://explorer.bounties.network/bounty/3925) Bounty
-    - HelpDAO ⛑ [Deployment Kit:](https://explorer.bounties.network/bounty/3926) Bounty
-    - Contributor Onboarding and [Engagement Workflow:](https://explorer.bounties.network/bounty/3928) Bounty
-    - EstoniaDAO 🇪🇪 [Ethereum Wallet:](https://explorer.bounties.network/bounty/3930) Bounty
-- **Pocket Bounties** 👖
-    - Best Pocket [SDK Integration](https://explorer.bounties.network/bounty/3932) Bounty
-    - Build a [Multi-Chain Application with Pocket](https://explorer.bounties.network/bounty/3933) Bounty
 - **Sablier** 📹 [DApp Tutorial](https://explorer.bounties.network/bounty/3927) Bounty
 - **Kickback** 🦵🏼[Proof of Achievment](https://explorer.bounties.network/bounty/3935) Bounty
 - **1up World** 🍄 [Game Creation](https://explorer.bounties.network/bounty/3936) Bounty 

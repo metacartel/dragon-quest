@@ -51,6 +51,9 @@
 - **Pocket Bounties** 👖
     - [Best Pocket SDK Integration](https://explorer.bounties.network/bounty/3932) Bounty
     - [Build a Multi-Chain Application with Pocket](https://explorer.bounties.network/bounty/3933) Bounty
+- **Compound Bounties** 💱
+    - [Borrow](https://explorer.bounties.network/bounty/3947) Bounty 
+    - [Governance](https://explorer.bounties.network/bounty/3946)  Bounty  
 - **3Box** :tada: [Best Integration](https://explorer.bounties.network/bounty/3920) Bounty
 - **rDAI** :fire: [Best Integration/Tool](https://explorer.bounties.network/bounty/3921) Bounty
 - **Pepo** 🏆 [UX Awards](https://explorer.bounties.network/bounty/3922) Bounty

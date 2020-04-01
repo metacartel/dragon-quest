@@ -51,6 +51,9 @@
 - **Pocket Bounties** 👖
     - [Best Pocket SDK Integration](https://explorer.bounties.network/bounty/3932) Bounty
     - [Build a Multi-Chain Application with Pocket](https://explorer.bounties.network/bounty/3933) Bounty
+- **RaidGuild Bounties** 🛠
+    - [Graphic Badge Design](https://explorer.bounties.network/bounty/3943) Bounty
+    - [Graphic Role Design](https://explorer.bounties.network/bounty/3945) Bounty
 - **Compound Bounties** 💱
     - [Borrow](https://explorer.bounties.network/bounty/3947) Bounty 
     - [Governance](https://explorer.bounties.network/bounty/3946)  Bounty  
@@ -62,7 +65,9 @@
 - **1up World** 🍄 [Game Creation](https://explorer.bounties.network/bounty/3936) Bounty 
 - **Ocean Protocol** 🌊 [Create-react-app](https://explorer.bounties.network/bounty/3941) Bounty
 - **MintBase** 🍬 [Best Integration](https://explorer.bounties.network/bounty/3942) Bounty
-- **RaidGuild** ⚔️ [Coming Soon]()
+- **Ethereum Foundation** [Coming Soon]()
+- **Aave** [Coming Soon]()
+
 
 
 ---
@@ -84,10 +89,11 @@
 
 ### Random build ideas
 
-- A dapp that allows anyone to curate an NFT art gallery from NFTs they own
-- Gift NFTs via telegram chats
-- DAO that aggregates social tokens
-- Events manager with crypto NFT ticketing
+- A dapp that allows anyone to curate an NFT art gallery from NFTs they own!
+- Gift NFTs via telegram chats!
+- DAO that aggregates social tokens!
+- Events manager with crypto NFT ticketing!
+- Super memeable video explaining DAO's to the masses!
 
 #### Hackathon problems to solve?
 - How do we [use crypto to support those affected by COVID-19](https://discord.gg/UKwrBQV)?

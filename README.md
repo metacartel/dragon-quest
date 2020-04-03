@@ -48,9 +48,14 @@
     - [HelpDAO ⛑ Deployment Kit](https://explorer.bounties.network/bounty/3926) Bounty
     - [Contributor Onboarding and Engagement Workflow](https://explorer.bounties.network/bounty/3928) Bounty
     - [EstoniaDAO 🇪🇪 Ethereum Wallet](https://explorer.bounties.network/bounty/3930) Bounty
+- **MetaGame Bounties** :octopus:
+    - [Discord Chat Bot](https://explorer.bounties.network/bounty/3950) Bounty
+    - [Character and Graphic Design](https://explorer.bounties.network/bounty/3949) Bounty
+    - [Interspace Chat Web Interactivity](https://explorer.bounties.network/bounty/3948) Bounty
 - **Pocket Bounties** 👖
     - [Best Pocket SDK Integration](https://explorer.bounties.network/bounty/3932) Bounty
     - [Build a Multi-Chain Application with Pocket](https://explorer.bounties.network/bounty/3933) Bounty
+
 - **RaidGuild Bounties** 🛠
     - [Graphic Badge Design](https://explorer.bounties.network/bounty/3943) Bounty
     - [Graphic Role Design](https://explorer.bounties.network/bounty/3945) Bounty

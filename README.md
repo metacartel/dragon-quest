@@ -6,8 +6,12 @@
 - **March 23rd:** ~10am Builder speed dating / looking for a party session #1~
 [Notes](https://hackmd.io/uE7yf-gISFC98lhDL6Uv-A)
 - **March 29th:** ~10am Builder speed dating / looking for a party session #2~ [Notes](https://hackmd.io/9Rp10RipTo-mGscYoS11Tw)
-- **April 1st:** Let the building begin! 
+- **April 1st:** ~Let the building begin!~
+- **April 2nd 7pm CET/ 10am PST** Hacker Mixer On [Zoom](https://zoom.us/j/763938592?pwd=dlFjcWgxdE1uamVDRWtjQytsZHNndz09)👈🏼
 - **April 6th (Sunday):** Weekly builder check-in & chill.
+- **April 7th 7pm CET/ 10am PST**  Austin Griffith runs you through Eth.buidl https://eth.build/ [RSVP](https://meetly.xyz/events/dragon-quest-hackathon-learning-sessions/)👈🏼
+- **April 8th 7pm CET / 10am PST** Learning "No-Code" Dapps W/ DappHero [RSVP](https://meetly.xyz/events/dragon-quest-hackathon-learning-sessions/)👈🏼
+- **April 9th 7pm CET / 10am PST** UX Workshop W Sasha Tanase of Consensys Academy [RSVP](https://meetly.xyz/events/dragon-quest-hackathon-learning-sessions/)👈🏼
 - **April 13th (Sunday):** Weekly builder check-in & chill.
 - **April 20th (Sunday):** Weekly builder check-in & chill.
 - **April 30th:** Building ends.

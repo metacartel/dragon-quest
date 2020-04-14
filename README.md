@@ -73,8 +73,9 @@
 - **Kickback** 🦵🏼[Proof of Achievment](https://explorer.bounties.network/bounty/3935) Bounty
 - **1up World** 🍄 [Game Creation](https://explorer.bounties.network/bounty/3936) Bounty 
 - **Ocean Protocol** 🌊 [Create-react-app](https://explorer.bounties.network/bounty/3941) Bounty
-- **MintBase** 🍬 [Best Integration](https://explorer.bounties.network/bounty/3942) Bounty
+- **MintBase** 🍬 ~[Best Integration](https://explorer.bounties.network/bounty/3942) Bounty~
 - **Aave** 📐 [Leveraging](https://explorer.bounties.network/bounty/3953) Bounty
+- **LexDAO** ⚖️ [React App](https://explorer.bounties.network/bounty/3955) Bounty
 - **Ethereum Foundation** [Coming Soon]()
 
 
